@@ -1,8 +1,8 @@
 module.exports = {
 	helpCmdPerPage: 10, //- Number of commands per page of help command
 	lyricsMaxResults: 5, //- Number of results for lyrics command (Do not touch this value if you don't know what you are doing)
-	adminId: "UserId", //- Replace UserId with the Discord ID of the admin of the bot
-	token: process.env.token || "", //- Bot's Token
+	adminId: "347693657870303233", //- Replace UserId with the Discord ID of the admin of the bot
+	token: process.env.token || "MTE5MDc5Nzc1MTExMDM0ODg5MQ.G84mtH.bQ1erM6Py7Plan-L2aC5iJicO0PCDbgcWEAe7Q\n", //- Bot's Token
 	clientId: process.env.clientId || "", //- ID of the bot
 	clientSecret: process.env.clientSecret || "", //- Client Secret of the bot
 	port: 4200, //- Port of the API and Dashboard
